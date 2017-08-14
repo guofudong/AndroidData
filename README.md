@@ -3,6 +3,7 @@
 
 
 * [下拉刷新](https://github.com/jdsjlzx/LRecyclerView)
+* [Adapter](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)
 * [WebView](https://github.com/Justson/AgentWeb)
 * [沉浸式状态栏](https://github.com/gyf-dev/ImmersionBar)
 * [搜索框](https://github.com/wenwenwen888/SearchDialog)
@@ -27,7 +28,7 @@
  * [图片加载、BaseActivity](https://mp.weixin.qq.com/s?__biz=MzI1MDc5ODA4OA==&mid=2247483656&idx=1&sn=a4180b5b4852be90d870e0f78db99e65&chksm=e9fd886fde8a01794d2f56ab1f2c3d6203bbad7fa4ba418ddde63d27dc1a9f71500f47df5cdc&mpshare=1&scene=1&srcid=0814BRMXT378k5snOY2lum2a#rd)
  * [自定义View](https://mp.weixin.qq.com/s?timestamp=1502690029&src=3&ver=1&signature=lIiVXaFDf4elqTwI7WmXEOv37XixDodZ9PToHaiTU-5a5BVeg*UEmDFs7eDpQCwL5DTkLvi2ctBqaL2URuaIXiRqN526qw1BtpaEQ8tT3pEzmCfjgWDQZ4pyHFljkUBQ-ljkCzs4vr3iGm1q5UHB-uqnOU1u4zMD39avAKXfMqI=)
  * [mvp架构基础讲解](https://mp.weixin.qq.com/s?timestamp=1502690029&src=3&ver=1&signature=lIiVXaFDf4elqTwI7WmXEOv37XixDodZ9PToHaiTU-5a5BVeg*UEmDFs7eDpQCwL5DTkLvi2ctBqaL2URuaIXkrIQPNEDJAjyp8LWIyuSTNnH5xk566M9Hfx2Kv-YLOQDpYj2otC9nHbdeF97bbrbnjkzzeWVVl4zOiFxwNuJS0=)
- * []()
+ 
  
  ## 开源项目
  * [高仿网易云音乐](https://github.com/youlookwhat/CloudReader)
