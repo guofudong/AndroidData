@@ -17,6 +17,7 @@
 * [图片压缩：鲁班](https://github.com/Curzibn/Luban)
 * [屏幕适配：autoLayout](https://github.com/hongyangAndroid/AndroidAutoLayout)
 * [蓝牙开发框架](https://github.com/Jasonchenlijian/FastBle)
+* [TabLayout](https://github.com/yewei02538/ColorTrackTabLayout)
 * [权限申请](https://github.com/yanzhenjie/AndPermission)
 * [换肤框架](https://github.com/ximsfei/Android-skin-support)
 
