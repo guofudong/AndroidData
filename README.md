@@ -21,6 +21,7 @@
 * [TabLayout](https://github.com/yewei02538/ColorTrackTabLayout)
 * [权限申请](https://github.com/yanzhenjie/AndPermission)
 * [换肤框架](https://github.com/ximsfei/Android-skin-support)
+* [Hybrid框架](https://github.com/Tencent/VasSonic)
 
 ## 知识文档
  * [面试指南](https://github.com/stormzhang/android-interview-questions-cn)
