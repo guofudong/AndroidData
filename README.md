@@ -5,6 +5,7 @@
 * [下拉刷新1](https://github.com/jdsjlzx/LRecyclerView)
 * [下拉刷新2](https://github.com/bingoogolapple/BGARefreshLayout-Android)
 * [Adapter](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)
+* [代替Shape的TextView](https://github.com/lygttpod/SuperTextView)
 * [WebView](https://github.com/Justson/AgentWeb)
 * [沉浸式状态栏](https://github.com/gyf-dev/ImmersionBar)
 * [搜索框](https://github.com/wenwenwen888/SearchDialog)
