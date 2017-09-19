@@ -27,6 +27,7 @@
 * [EditText输入规则判断](https://github.com/ragunathjawahar/android-saripaar)
 * [网络访问框架-OkGo](https://github.com/jeasonlzy/okhttp-OkGo)
 * [网络访问框架-NoHttp](https://github.com/yanzhenjie/NoHttp)
+* [高仿小米日历](https://github.com/yannecer/NCalendar)
 ## 知识文档
  * [面试指南](https://github.com/stormzhang/android-interview-questions-cn)
  * [知识点](https://github.com/GeniusVJR/LearningNotes)
