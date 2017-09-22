@@ -4,6 +4,7 @@
 * [BaseLibrary](https://github.com/guofudong/BaseLibrary)
 * [下拉刷新1](https://github.com/jdsjlzx/LRecyclerView)
 * [下拉刷新2](https://github.com/bingoogolapple/BGARefreshLayout-Android)
+* [下拉刷新3](https://github.com/lcodecorex/TwinklingRefreshLayout)
 * [Adapter](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)
 * [代替Shape的TextView](https://github.com/lygttpod/SuperTextView)
 * [WebView](https://github.com/Justson/AgentWeb)
