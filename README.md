@@ -30,8 +30,10 @@
 * [网络访问框架-NoHttp](https://github.com/yanzhenjie/NoHttp)
 * [高仿小米日历](https://github.com/yannecer/NCalendar)
 ## 知识文档
- * [面试指南](https://github.com/stormzhang/android-interview-questions-cn)
+ * [面试指南1](http://eddy.wiki/categories/Android-%E9%9D%A2%E8%AF%95/)
+ * [面试指南2](https://github.com/stormzhang/android-interview-questions-cn)
  * [知识点](https://github.com/GeniusVJR/LearningNotes)
+
  
  ## Android百科全书
  * [图片加载、BaseActivity](https://mp.weixin.qq.com/s?__biz=MzI1MDc5ODA4OA==&mid=2247483656&idx=1&sn=a4180b5b4852be90d870e0f78db99e65&chksm=e9fd886fde8a01794d2f56ab1f2c3d6203bbad7fa4ba418ddde63d27dc1a9f71500f47df5cdc&mpshare=1&scene=1&srcid=0814BRMXT378k5snOY2lum2a#rd)
