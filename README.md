@@ -21,7 +21,8 @@
 * [屏幕适配：autoLayout](https://github.com/hongyangAndroid/AndroidAutoLayout)
 * [蓝牙开发框架](https://github.com/Jasonchenlijian/FastBle)
 * [TabLayout](https://github.com/yewei02538/ColorTrackTabLayout)
-* [权限申请](https://github.com/yanzhenjie/AndPermission)
+* [权限申请1](https://github.com/yanzhenjie/AndPermission)
+* [权限申请2](https://github.com/googlesamples/easypermissions)
 * [换肤框架](https://github.com/ximsfei/Android-skin-support)
 * [Hybrid框架](https://github.com/Tencent/VasSonic)
 * [表格控件](https://github.com/zhouchaoyuan/excelPanel)
@@ -33,6 +34,10 @@
  * [面试指南1](http://eddy.wiki/categories/Android-%E9%9D%A2%E8%AF%95/)
  * [面试指南2](https://github.com/stormzhang/android-interview-questions-cn)
  * [知识点](https://github.com/GeniusVJR/LearningNotes)
+ 
+ ##Android架构
+ * [MVP + RxJava + Retrofit示例](https://github.com/yiyibb/Zhihu)
+ * [MVP + Dagger2 + Retrofit + Rxjava示例](https://github.com/babylikebird/owspace)
 
  
  ## Android百科全书
