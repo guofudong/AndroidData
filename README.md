@@ -35,7 +35,7 @@
  * [面试指南2](https://github.com/stormzhang/android-interview-questions-cn)
  * [知识点](https://github.com/GeniusVJR/LearningNotes)
  
- ##Android架构
+## Android架构
  * [MVP + RxJava + Retrofit示例](https://github.com/yiyibb/Zhihu)
  * [MVP + Dagger2 + Retrofit + Rxjava示例](https://github.com/babylikebird/owspace)
 
