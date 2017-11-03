@@ -39,6 +39,7 @@
  * [干净的架构](https://github.com/android10/Android-CleanArchitecture)
  * [MVP + RxJava + Retrofit示例](https://github.com/yiyibb/Zhihu)
  * [MVP + Dagger2 + Retrofit + Rxjava示例](https://github.com/babylikebird/owspace)
+ * [MVP开源框架](https://github.com/JessYanCoding/MVPArms)
 
  
  ## Android百科全书
