@@ -40,6 +40,7 @@
  * [MVP + RxJava + Retrofit示例](https://github.com/yiyibb/Zhihu)
  * [MVP + Dagger2 + Retrofit + Rxjava示例](https://github.com/babylikebird/owspace)
  * [MVP开源框架](https://github.com/JessYanCoding/MVPArms)
+ * [高仿百蓝应用市场](https://github.com/guzhigang001/Bailan)
 
  
  ## Android百科全书
