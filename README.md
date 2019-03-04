@@ -18,8 +18,7 @@
 ## 面试知识整理
 * [Java / Android 笔试、面试 知识整理](https://github.com/hadyang/interview)
 * [CommonDevKnowledge](https://github.com/AweiLoveAndroid/CommonDevKnowledge)
-* [面试指南1](http://eddy.wiki/categories/Android-%E9%9D%A2%E8%AF%95/)
-* [面试指南2](https://github.com/stormzhang/android-interview-questions-cn)
+* [面试指南](https://github.com/stormzhang/android-interview-questions-cn)
 * [知识点](https://github.com/GeniusVJR/LearningNotes)
  
 ## 简书专题
