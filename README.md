@@ -1,4 +1,11 @@
 # AndroidData
+* 知识总结
+* 三方库收集
+* 面试知识整理
+* 简书专题
+* Android架构
+* 工具
+* 开源项目
 
 ## 知识总结
 * [博客笔记收集](https://github.com/yangchong211/YCBlogs)
@@ -66,6 +73,8 @@
  * [微信开源资源混淆工具AndResGuard](https://github.com/shwenzhang/AndResGuard)
  
  ## 开源项目
+ * [Meterail Design风格商城](https://github.com/guofudong/EShop)
+ * [全网VIP影视](https://github.com/guofudong/KotlinAndroid)
  * [高仿网易云音乐](https://github.com/youlookwhat/CloudReader)
  * [高仿微信](https://github.com/GitLqr/LQRWeChat)
  * [高仿今日头条标签移动删除](https://github.com/YoKeyword/ItemTouchHelperDemo)
