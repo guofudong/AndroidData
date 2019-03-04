@@ -12,6 +12,7 @@
 ## 知识总结
 * [博客笔记收集](https://github.com/yangchong211/YCBlogs)
 * [玩Android](http://www.wanandroid.com/)
+* [Android Framework层分析](https://duanqz.github.io/)
 * [Flutter实战](https://book.flutterchina.club/)
 
 ## 面试知识整理
@@ -25,7 +26,6 @@
 * [Android组件化](https://www.jianshu.com/c/a37a64f2aa96)
 * [Android面试专题](https://www.jianshu.com/c/e75ac2311255)
 * [Android屏幕适配](https://www.jianshu.com/c/aa7e2728c789)
-* [Android组件化](https://www.jianshu.com/c/a37a64f2aa96)
 
 ## 视频教程资源获取网站
 * [龙天论坛](https://www.lthack.com/)
