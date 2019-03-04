@@ -102,6 +102,3 @@
  * [高仿今日头条标签移动删除](https://github.com/YoKeyword/ItemTouchHelperDemo)
  * [高仿微博，空间等九宫格图片组件](https://github.com/jeasonlzy/NineGridView)
  * [精仿今日头条](https://github.com/chaychan/TouTiao)
- 
- # 前端
- * [前端资料文档](https://github.com/search?utf8=%E2%9C%93&q=Front-end-tutorial&type=)
