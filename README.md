@@ -1,14 +1,46 @@
 # AndroidData
 * 知识总结
-* 三方库收集
 * 面试知识整理
 * 简书专题
+* 视频教程资源获取网站
+* 开源API
+* 三方库收集
 * Android架构
 * 工具
 * 开源项目
 
 ## 知识总结
 * [博客笔记收集](https://github.com/yangchong211/YCBlogs)
+* [玩Android](http://www.wanandroid.com/)
+* [Flutter实战](https://book.flutterchina.club/)
+
+## 面试知识整理
+* [Java / Android 笔试、面试 知识整理](https://github.com/hadyang/interview)
+* [CommonDevKnowledge](https://github.com/AweiLoveAndroid/CommonDevKnowledge)
+* [面试指南1](http://eddy.wiki/categories/Android-%E9%9D%A2%E8%AF%95/)
+* [面试指南2](https://github.com/stormzhang/android-interview-questions-cn)
+* [知识点](https://github.com/GeniusVJR/LearningNotes)
+ 
+## 简书专题
+* [Android组件化](https://www.jianshu.com/c/a37a64f2aa96)
+* [Android面试专题](https://www.jianshu.com/c/e75ac2311255)
+* [Android屏幕适配](https://www.jianshu.com/c/aa7e2728c789)
+* [Android组件化](https://www.jianshu.com/c/a37a64f2aa96)
+
+## 视频教程资源获取网站
+* [龙天论坛](https://www.lthack.com/)
+* [凌云社区](http://www.linyunbbs.com/)
+* [我爱学IT](http://www.52studyit.com/forum.php?mod=forumdisplay&fid=2&filter=typeid&typeid=68)
+* [菜鸟要飞](http://www.newbiefly.com/)
+
+## 开源API
+* [时光网](https://github.com/jokermonn/-Api/blob/master/Time.md)
+* [开眼API](https://github.com/jokermonn/-Api/blob/master/Eyepetizer.md)
+* [音乐相关1](https://blog.csdn.net/sinat_27938829/article/details/79189477)
+* [音乐相关2](https://blog.csdn.net/sinat_27938829/article/details/83383660)
+* [一席](https://github.com/jokermonn/-Api/blob/master/Yixi.md)
+* [图虫](https://github.com/jokermonn/-Api/blob/master/Tuchong.md)
+* [12306](https://github.com/jokermonn/-Api/blob/master/12306.md)
 
 ## 三方库收集
 * [日志工具logger](https://github.com/orhanobut/logger)
@@ -41,19 +73,6 @@
 * [网络访问框架-NoHttp](https://github.com/yanzhenjie/NoHttp)
 * [高仿小米日历](https://github.com/yannecer/NCalendar)
 
-## 面试知识整理
-* [Java / Android 笔试、面试 知识整理](https://github.com/hadyang/interview)
-* [CommonDevKnowledge](https://github.com/AweiLoveAndroid/CommonDevKnowledge)
-* [面试指南1](http://eddy.wiki/categories/Android-%E9%9D%A2%E8%AF%95/)
-* [面试指南2](https://github.com/stormzhang/android-interview-questions-cn)
-* [知识点](https://github.com/GeniusVJR/LearningNotes)
- 
-## 简书专题
-* [Android组件化](https://www.jianshu.com/c/a37a64f2aa96)
-* [Android面试专题](https://www.jianshu.com/c/e75ac2311255)
-* [Android屏幕适配](https://www.jianshu.com/c/aa7e2728c789)
-* [Android组件化](https://www.jianshu.com/c/a37a64f2aa96)
-
 ## Android架构
  * [干净的架构](https://github.com/android10/Android-CleanArchitecture)
  * [KotlinAndroid](https://github.com/guofudong/KotlinAndroid)
@@ -71,6 +90,9 @@
  ## 工具
  * [facebook的Android抓包工具Stetho](https://github.com/facebook/stetho)
  * [微信开源资源混淆工具AndResGuard](https://github.com/shwenzhang/AndResGuard)
+ * [接口mock调试](https://easy-mock.com/)
+ * [原型设计](https://www.xiaopiu.com/)
+ * [在线绘图](https://www.processon.com/)
  
  ## 开源项目
  * [Meterail Design风格商城](https://github.com/guofudong/EShop)
