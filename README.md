@@ -1,10 +1,10 @@
 # AndroidData
 
+## 知识总结
 * [博客笔记收集](https://github.com/yangchong211/YCBlogs)
 
-三方库收集
-
-* [BaseLibrary](https://github.com/guofudong/BaseLibrary)
+## 三方库收集
+* [日志工具logger](https://github.com/orhanobut/logger)
 * [下拉刷新1](https://github.com/jdsjlzx/LRecyclerView)
 * [下拉刷新2](https://github.com/bingoogolapple/BGARefreshLayout-Android)
 * [下拉刷新3](https://github.com/lcodecorex/TwinklingRefreshLayout)
@@ -33,13 +33,23 @@
 * [网络访问框架-OkGo](https://github.com/jeasonlzy/okhttp-OkGo)
 * [网络访问框架-NoHttp](https://github.com/yanzhenjie/NoHttp)
 * [高仿小米日历](https://github.com/yannecer/NCalendar)
-## 知识文档
- * [面试指南1](http://eddy.wiki/categories/Android-%E9%9D%A2%E8%AF%95/)
- * [面试指南2](https://github.com/stormzhang/android-interview-questions-cn)
- * [知识点](https://github.com/GeniusVJR/LearningNotes)
+
+## 面试知识整理
+* [Java / Android 笔试、面试 知识整理](https://github.com/hadyang/interview)
+* [CommonDevKnowledge](https://github.com/AweiLoveAndroid/CommonDevKnowledge)
+* [面试指南1](http://eddy.wiki/categories/Android-%E9%9D%A2%E8%AF%95/)
+* [面试指南2](https://github.com/stormzhang/android-interview-questions-cn)
+* [知识点](https://github.com/GeniusVJR/LearningNotes)
  
+## 简书专题
+* [Android组件化](https://www.jianshu.com/c/a37a64f2aa96)
+* [Android面试专题](https://www.jianshu.com/c/e75ac2311255)
+* [Android屏幕适配](https://www.jianshu.com/c/aa7e2728c789)
+* [Android组件化](https://www.jianshu.com/c/a37a64f2aa96)
+
 ## Android架构
  * [干净的架构](https://github.com/android10/Android-CleanArchitecture)
+ * [KotlinAndroid](https://github.com/guofudong/KotlinAndroid)
  * [MVP + RxJava + Retrofit示例](https://github.com/yiyibb/Zhihu)
  * [MVP + Dagger2 + Retrofit + Rxjava示例](https://github.com/babylikebird/owspace)
  * [MVP开源框架](https://github.com/JessYanCoding/MVPArms)
@@ -51,6 +61,9 @@
  * [自定义View](https://mp.weixin.qq.com/s?timestamp=1502690029&src=3&ver=1&signature=lIiVXaFDf4elqTwI7WmXEOv37XixDodZ9PToHaiTU-5a5BVeg*UEmDFs7eDpQCwL5DTkLvi2ctBqaL2URuaIXiRqN526qw1BtpaEQ8tT3pEzmCfjgWDQZ4pyHFljkUBQ-ljkCzs4vr3iGm1q5UHB-uqnOU1u4zMD39avAKXfMqI=)
  * [mvp架构基础讲解](https://mp.weixin.qq.com/s?timestamp=1502690029&src=3&ver=1&signature=lIiVXaFDf4elqTwI7WmXEOv37XixDodZ9PToHaiTU-5a5BVeg*UEmDFs7eDpQCwL5DTkLvi2ctBqaL2URuaIXkrIQPNEDJAjyp8LWIyuSTNnH5xk566M9Hfx2Kv-YLOQDpYj2otC9nHbdeF97bbrbnjkzzeWVVl4zOiFxwNuJS0=)
  
+ ## 工具
+ * [facebook的Android抓包工具Stetho](https://github.com/facebook/stetho)
+ * [微信开源资源混淆工具AndResGuard](https://github.com/shwenzhang/AndResGuard)
  
  ## 开源项目
  * [高仿网易云音乐](https://github.com/youlookwhat/CloudReader)
@@ -58,7 +71,6 @@
  * [高仿今日头条标签移动删除](https://github.com/YoKeyword/ItemTouchHelperDemo)
  * [高仿微博，空间等九宫格图片组件](https://github.com/jeasonlzy/NineGridView)
  * [精仿今日头条](https://github.com/chaychan/TouTiao)
- 
  
  # 前端
  * [前端资料文档](https://github.com/search?utf8=%E2%9C%93&q=Front-end-tutorial&type=)
