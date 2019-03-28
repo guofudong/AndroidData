@@ -8,6 +8,7 @@
 * Android架构
 * 工具
 * 开源项目
+* Flutter学习资料
 
 ## 知识总结
 * [博客笔记收集](https://github.com/yangchong211/YCBlogs)
@@ -101,3 +102,10 @@
  * [高仿今日头条标签移动删除](https://github.com/YoKeyword/ItemTouchHelperDemo)
  * [高仿微博，空间等九宫格图片组件](https://github.com/jeasonlzy/NineGridView)
  * [精仿今日头条](https://github.com/chaychan/TouTiao)
+ 
+ ## Flutter学习资料
+ * [Flutter视频教程](https://pan.baidu.com/s/1FdNTutQzlqytINsyA1ySxw) ：u19s
+ * [Flutter实战](https://book.flutterchina.club/)
+ * [Flutter学习实战](https://coding.net/u/ninghao/p/ninghao_flutter/git/tree/master/lib)
+
+ 
