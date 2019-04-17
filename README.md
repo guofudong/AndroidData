@@ -15,6 +15,7 @@
 * [玩Android](http://www.wanandroid.com/)
 * [Android Framework层分析](https://duanqz.github.io/)
 * [Flutter实战](https://book.flutterchina.club/)
+* [Android架构文章合集](https://github.com/CameloeAnthony/AndroidArchitectureCollection)
 
 ## 面试知识整理
 * [Java / Android 笔试、面试 知识整理](https://github.com/hadyang/interview)
