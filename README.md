@@ -91,10 +91,13 @@
  * [自定义View](https://mp.weixin.qq.com/s?timestamp=1502690029&src=3&ver=1&signature=lIiVXaFDf4elqTwI7WmXEOv37XixDodZ9PToHaiTU-5a5BVeg*UEmDFs7eDpQCwL5DTkLvi2ctBqaL2URuaIXiRqN526qw1BtpaEQ8tT3pEzmCfjgWDQZ4pyHFljkUBQ-ljkCzs4vr3iGm1q5UHB-uqnOU1u4zMD39avAKXfMqI=)
  * [mvp架构基础讲解](https://mp.weixin.qq.com/s?timestamp=1502690029&src=3&ver=1&signature=lIiVXaFDf4elqTwI7WmXEOv37XixDodZ9PToHaiTU-5a5BVeg*UEmDFs7eDpQCwL5DTkLvi2ctBqaL2URuaIXkrIQPNEDJAjyp8LWIyuSTNnH5xk566M9Hfx2Kv-YLOQDpYj2otC9nHbdeF97bbrbnjkzzeWVVl4zOiFxwNuJS0=)
  
+ 
  ## 工具
  * [facebook的Android抓包工具Stetho](https://github.com/facebook/stetho)
  * [微信开源资源混淆工具AndResGuard](https://github.com/shwenzhang/AndResGuard)
  * [接口mock调试](https://easy-mock.com/)
+ * [接口mock调试2](https://www.fastmock.site/#/)
+ * [Android秒级编译工具Freeline](https://github.com/alibaba/freeline/blob/master/README-zh.md)
  * [原型设计](https://www.xiaopiu.com/)
  * [在线绘图](https://www.processon.com/)
  
