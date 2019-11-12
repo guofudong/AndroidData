@@ -48,6 +48,7 @@
 ## 三方库收集
 * [日志工具logger](https://github.com/orhanobut/logger)
 * [下拉刷新1](https://github.com/jdsjlzx/LRecyclerView)
+* [蓝牙FastBle](https://github.com/Jasonchenlijian/FastBle/wiki)
 * [下拉刷新2](https://github.com/bingoogolapple/BGARefreshLayout-Android)
 * [下拉刷新3](https://github.com/lcodecorex/TwinklingRefreshLayout)
 * [Adapter](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)
