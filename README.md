@@ -24,6 +24,7 @@
 * [面试指南](https://github.com/stormzhang/android-interview-questions-cn)
 * [知识点](https://github.com/GeniusVJR/LearningNotes)
 * [Java Android学习/面试指南](https://www.wanandroid.com/blog/show/2544)
+* [Android-Interview](https://github.com/JsonChao/Awesome-Android-Interview)
  
 ## 简书专题
 * [Android组件化](https://www.jianshu.com/c/a37a64f2aa96)
